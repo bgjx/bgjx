@@ -1,4 +1,4 @@
-## Hello Everyone!, welcome to my GitHub profile ✌️💕.
+## Hello Everyone!, welcome to my GitHub profile ✌.
 
 <!--
 **bgjx/bgjx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
