@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/zakki_edelo" target="blank"><img src="https://img.shields.io/twitter/follow/zakki_edelo?logo=twitter&style=for-the-badge" alt="zakki_edelo" /></a> </p>
 
-- Currently, I am working on geophysical data processing and automation, one of which is [lqtmoment, an automatic moment magnitude calculation Python package with built-in data analysis.](https://github.com/bgjx/lqt-moment-magnitude)
+- Currently, I am working on geophysical data processing and automation, one of which is [lqtmoment](https://github.com/bgjx/lqt-moment-magnitude), an automatic moment magnitude calculation Python package with built-in data analysis.
 
 - At this moment, I am also intensively learning Data Engineering, DevOps, and Machine Learning using **Tensorflow, Pytorch, Pandas, and ScikitLearn.**
 
