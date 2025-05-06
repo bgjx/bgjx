@@ -7,7 +7,13 @@
 
 - Currently, I am working on geophysical data processing and automation, one of which is [lqtmoment](https://github.com/bgjx/lqt-moment-magnitude), an automatic moment magnitude calculation Python package with built-in data analysis.
 
-- At this moment, I am also intensively learning Data Engineering, DevOps, and Machine Learning using **Tensorflow, Pytorch, Pandas, and ScikitLearn.**
+- At this moment, I am also intensively learning Data Analytics, Data Engineering, DevOps, and Machine Learning using **Tensorflow, Pytorch, Pandas, and ScikitLearn.**
+
+My favorite music is by Pink Floyd. I think they are the greatest of all time, and here is my favorite song from them:
+
+<div>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6pnwfWyaWjQiHCKTiZLItr?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
