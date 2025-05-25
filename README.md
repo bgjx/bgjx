@@ -1,5 +1,3 @@
-<h1 align="center">Hi, I'm Arham Zakki Edelo</h1>
-<h3 align="center">A passionate Python developer with geophysical engineering background.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bgjx&label=Profile%20views&color=0e75b6&style=flat" alt="bgjx" /> </p>
 
