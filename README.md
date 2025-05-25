@@ -1,7 +1,5 @@
-<p align='center'><i align="center">
-    "To live is to suffer, to survive is to find some meaning in the suffering."
-</i> </p>
-<p align="center">— Friedrich Nietzsche —</p>
+<h2 align='center'> Welcome Everyone</h2>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bgjx&label=Profile%20views&color=0e75b6&style=flat" alt="bgjx" /> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bgjx&show_icons=true&locale=en&theme=gotham&hide_border=true" alt="bgjx" /></p>
@@ -30,3 +28,7 @@
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bgjx&theme=gotham&hide_border=true" alt="bgjx" /></p>
+<p align='center'><i align="center">
+    "To live is to suffer, to survive is to find some meaning in the suffering."
+</i> </p>
+<p align="center">— Friedrich Nietzsche —</p>
