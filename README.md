@@ -1,4 +1,8 @@
 
+<p align='center'><i align="center">
+    "To live is to suffer, to survive is to find some meaning in the suffering."
+</i> </p>
+<p align="center">— Friedrich Nietzsche —</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bgjx&label=Profile%20views&color=0e75b6&style=flat" alt="bgjx" /> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bgjx&show_icons=true&locale=en&theme=radical" alt="bgjx" /></p>
