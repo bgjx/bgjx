@@ -1,8 +1,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bgjx&label=Profile%20views&color=0e75b6&style=flat" alt="bgjx" /> </p>
 
-<p align="left"> <a href="https://twitter.com/zakki_edelo" target="blank"><img src="https://img.shields.io/twitter/follow/zakki_edelo?logo=twitter&style=for-the-badge" alt="zakki_edelo" /></a> </p>
-
 <a align="left" href="https://github.com/bgjx/lqt-moment-magnitude">
     <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=bgjx&repo=lqt-moment-magnitude&theme=radical" />
