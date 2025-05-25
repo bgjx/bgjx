@@ -3,6 +3,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bgjx&show_icons=true&locale=en&theme=radical" alt="bgjx" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bgjx&show_icons=true&locale=en&layout=compact&theme=radical" alt="bgjx" /></p>
+
+<h3 align="left">Highlighted Projects:</h3>
 <a align="left" href="https://github.com/bgjx/lqt-moment-magnitude">
     <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=bgjx&repo=lqt-moment-magnitude&theme=radical" />
