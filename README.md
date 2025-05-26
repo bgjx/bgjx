@@ -1,4 +1,4 @@
-<h2 align='center'> Welcome Everyone</h2>
+<h1 align='center'> Welcome Everyone</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bgjx&label=Profile%20views&color=0e75b6&style=flat" alt="bgjx" /> </p>
 
