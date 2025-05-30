@@ -14,6 +14,11 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=bgjx&repo=eqt-meq-implementation&theme=gotham&hide_border=true" />
     </p>
 </a>
+<a align="left" href="https://github.com/bgjx/meq-data-app">
+    <p align="left">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bgjx&repo=meq-data-app&theme=gotham&hide_border=true" />
+    </p>
+</a>
 
 - Currently, I am working on geophysical data processing and automation, one of which is [lqtmoment](https://github.com/bgjx/lqt-moment-magnitude), an automatic moment magnitude calculation Python package with built-in data analysis.
 
