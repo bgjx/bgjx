@@ -4,21 +4,24 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bgjx&show_icons=true&locale=en&layout=compact&theme=gotham&hide_border=true" alt="bgjx" /></p>
 
 <h3 align="left">Highlighted Projects:</h3>
-<a align="left" href="https://github.com/bgjx/lqt-moment-magnitude">
-    <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bgjx&repo=lqt-moment-magnitude&theme=gotham&hide_border=true" />
-    </p>
-</a>
-<a align="left" href="https://github.com/bgjx/eqt-meq-implementation">
-    <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bgjx&repo=eqt-meq-implementation&theme=gotham&hide_border=true" />
-    </p>
-</a>
-<a align="left" href="https://github.com/bgjx/meq-data-app">
-    <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bgjx&repo=meq-data-app&theme=gotham&hide_border=true" />
-    </p>
-</a>
+
+<div align="left">
+  <div style="display: inline;">
+    <a href="https://github.com/bgjx/lqt-moment-magnitude">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=bgjx&repo=lqt-moment-magnitude&theme=gotham&hide_border=true" alt="lqt-moment-magnitude" />
+    </a>
+  </div>
+  <div style="display: inline;">
+    <a href="https://github.com/bgjx/eqt-meq-implementation">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=bgjx&repo=eqt-meq-implementation&theme=gotham&hide_border=true" alt="eqt-meq-implementation" />
+    </a>
+  </div>
+  <div style="display: inline;">
+    <a href="https://github.com/bgjx/meq-data-app">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=bgjx&repo=meq-data-app&theme=gotham&hide_border=true" alt="meq-data-app" />
+    </a>
+  </div>
+</div>
 
 - Currently, I am working on geophysical data processing and automation, one of which is [lqtmoment](https://github.com/bgjx/lqt-moment-magnitude), an automatic moment magnitude calculation Python package with built-in data analysis.
 
