@@ -25,7 +25,7 @@
 
 - Currently, I am working on geophysical data processing and automation, one of which is [lqtmoment](https://github.com/bgjx/lqt-moment-magnitude), an automatic moment magnitude calculation Python package with built-in data analysis.
 
-- At this moment, I am also intensively learning Data Analytics, Data Engineering, DevOps, and Machine Learning using **Tensorflow, Pytorch, Pandas, and ScikitLearn.**
+- At this moment, I am also intensively learning Data Analytics, Data Engineering, DevOps, and Machine Learning.
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
