@@ -11,14 +11,16 @@
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=bgjx&repo=lqt-moment-magnitude&theme=gotham&hide_border=true" alt="lqt-moment-magnitude" />
     </a>
   </div>
-  <div style="display: inline;">
-    <a href="https://github.com/bgjx/eqt-meq-implementation">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=bgjx&repo=eqt-meq-implementation&theme=gotham&hide_border=true" alt="eqt-meq-implementation" />
-    </a>
-  </div>
+
   <div style="display: inline;">
     <a href="https://github.com/bgjx/meq-data-app">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=bgjx&repo=meq-data-app&theme=gotham&hide_border=true" alt="meq-data-app" />
+    </a>
+  </div>
+  
+  <div style="display: inline;">
+    <a href="https://github.com/bgjx/eqt-meq-implementation">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=bgjx&repo=eqt-meq-implementation&theme=gotham&hide_border=true" alt="eqt-meq-implementation" />
     </a>
   </div>
 </div>
