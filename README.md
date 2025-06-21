@@ -1,4 +1,7 @@
-<h1 align='center'> Welcome Everyone</h1>
+<div align='center'> 
+    <img src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazNlbHI5bDJobjdlYjZmaWptYW83a293MGVzdzF6eHNkb3dqYTk5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4hLJOFXdPL1zLS9y/giphy.gif'>
+</div>
+<h1 align='center'></h1>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bgjx&show_icons=true&locale=en&theme=gotham&hide_border=true" alt="bgjx" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bgjx&show_icons=true&locale=en&layout=compact&theme=gotham&hide_border=true" alt="bgjx" /></p>
