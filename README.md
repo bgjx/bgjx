@@ -67,7 +67,3 @@
     "To live is to suffer, to survive is to find some meaning in the suffering."
 </i> </p>
 <p align="center">— Friedrich Nietzsche —</p>
-
-<div align='center'>
-    <img src='https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG41MnljNGdvNWhqbHdhMzByY2s0MWNyOWhnMTVkcjU5dWczc245YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o85xDWOG8Sbl9yQzm/giphy.gif'>
-</div>
